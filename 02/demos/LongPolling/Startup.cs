@@ -32,5 +32,8 @@ namespace WiredBrain
             app.UseStaticFiles();
             app.UseMvc();
         }
+
+        // overige functies
+        //
     }
 }
